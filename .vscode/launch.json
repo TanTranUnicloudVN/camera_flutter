@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "dynamic_camera_detect_face_flutter",
+            "request": "launch",
+            "args": [
+                "--web-port=12356"
+            ],
+            "type": "dart",
+            "flutterMode": "debug"
+        },
+        {
+            "name": "dynamic_camera_detect_face_flutter (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "dynamic_camera_detect_face_flutter (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
